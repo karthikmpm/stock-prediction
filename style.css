@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+  }
+
+  body {
+    background-image: url(https://img.lovepik.com/photo/40104/6134.jpg_wh300.jpg);
+    align-items: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+  .start {
+    margin-top: 10px;
+    margin-bottom: auto;
+    text-align: center;
+    font-size: 35px;
+    color: #A9CCE3;
+    
+  }
+
+  
+  .kar {
+    margin-top: 5px;
+    margin-bottom: auto;
+    text-align: center;
+    font-size: 25px;
+    color: #F6DDCC;
+  }
+  .Input[id=dropdown_tickers]{
+    border: 2px salmon;
+    border-radius: 4px;
+  }
+
+  .form {
+    text-align: center;
+  }
+
+  .form button {
+    padding: 2px 20px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: darkgoldenrod;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 13px;
+  }
+
+  .date{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 5px;
+  }
+
+  .buttons {
+    text-align: center;
+    column-gap: 10px;
+    color: yellow;
+    
+    
+  }
+
+  .stock-btn {
+    padding: 3px 20px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: darkgoldenrod;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 20px;
+  }
+  .stock-btn a:hover{
+    background-color: aqua;
+    color: orange;
+    border: none;
+    border-bottom: 2px solid orange;
+    transform: 2s;
+  }
+  .indicators-btn {
+    padding: 3px 20px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: darkgoldenrod;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 20px;
+    
+  }
+
+  .forecast{
+    margin: 10px;
+    text-align: center;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: -10px;
+  }
+
+  .forecast-btn{
+    padding: 3px 10px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: darkgoldenrod;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-left: 10px;
+    margin: 20px;
+  }
+  #logo {
+    width: 200px;
+  }
+
+  .content {
+    text-align: center;
+    color: snow;
+    font-size: small;
+    margin-top: -25px;
+  }
+  .container{
+    align-items: center;
+    margin-top: 130px;
+  }
+
+  
+  
+
+  
+
